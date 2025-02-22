@@ -1,3 +1,8 @@
+# Easier way to run: 
+# Download the Zip, 
+# Extract the file then open in vscode and run in google colab. 
+# Then upload the images to the google colab notebook and run the code.
+
 # License Plate Detection Project
 
 This project is a simple license plate detection system implemented in Python using OpenCV, EasyOCR, and Matplotlib libraries.
